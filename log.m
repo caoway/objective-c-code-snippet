@@ -1,10 +1,10 @@
-// My Code Snippet
-// pragma mark
+// log
+// 
 //
-// IDECodeSnippetCompletionPrefix: mark
+// IDECodeSnippetCompletionPrefix: log
 // IDECodeSnippetCompletionScopes: [All]
-// IDECodeSnippetIdentifier: C2FFACF2-6B56-46A0-9EE5-7F4E4E6FB8B9
+// IDECodeSnippetIdentifier: 3837AB2D-445E-4A7E-AC5F-72A623D1FC2E
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-#pragma mark - <#section#>
+NSLog(@"<#Log#>"); 
