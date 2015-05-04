@@ -8,6 +8,8 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 - (void)viewDidAppear:(BOOL)animated {
+    [super viewDidAppear:animated];
+    
     // baidu tongji
     [[MCStatisticsSDK shareInstance] pageviewStartWithName:@""];
 }
