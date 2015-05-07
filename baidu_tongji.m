@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: A622F0B7-CF97-4708-9B14-7E78EDACA1E3
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
     
