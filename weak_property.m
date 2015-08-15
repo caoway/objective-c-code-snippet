@@ -1,10 +1,9 @@
 // weak property
 // 
 //
-// IDECodeSnippetCompletionPrefix: weak
 // IDECodeSnippetCompletionScopes: [ClassInterfaceMethods]
-// IDECodeSnippetIdentifier: C694EBD5-0801-48F9-8CF1-26FE7E253040
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetIdentifier: 7041C985-FDB2-41B6-91DC-4568E55ECD9E
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 2
-@property (weak, nonatomic) <#type#> <#name#>
+// IDECodeSnippetVersion: 0
+@property (weak, nonatomic) <#type#> <#name#>;
